@@ -1,5 +1,5 @@
 # 19xx - M456 - DOC - WBSps.ca - 20210317 11X 17 Scans.png
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -148,7 +148,7 @@ DUAL MIXDOWN MODULE SCHEMATIC ISSUE 10
 
 ```json
 {
- "file": "Modules/ROUTING/M456/19xx - M456 - DOC - WBSps.ca - 20210317 11X 17 Scans.png",
+ "file": "Modules/ROUTING/M456/MANUALS/19xx - M456 - DOC - WBSps.ca - 20210317 11X 17 Scans.png",
  "sha256": "348a7ca2a268ba12dce7d34dc6041e2088513b3f053638479bfd3e2c754c4feb",
  "kind": "doc",
  "models": [
