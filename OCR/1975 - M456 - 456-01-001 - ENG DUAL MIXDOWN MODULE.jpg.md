@@ -21,7 +21,7 @@ Wiki page: [M456](../../../../PAGES/M456.md)
 - **Closed boxes:** 31
 - **Wiring (first pass):** 182 connected wire groups from 597 runs
 
-Every curve, box, word and wire group: [1975 - M456 - 456-01-001 - ENG DUAL MIXDOWN MODULE (traced).json](../SCHEMATICS/1975%20-%20M456%20-%20456-01-001%20-%20ENG%20DUAL%20MIXDOWN%20MODULE%20(traced).json) (the CAD file: `1975 - M456 - 456-01-001 - ENG DUAL MIXDOWN MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456 - 456-01-001 - ENG DUAL MIXDOWN MODULE (traced).json](../SCHEMATICS/1975%20-%20M456%20-%20456-01-001%20-%20ENG%20DUAL%20MIXDOWN%20MODULE%20%28traced%29.json) (the CAD file: `1975 - M456 - 456-01-001 - ENG DUAL MIXDOWN MODULE (traced).dxf`).
 
 ## Full text
 

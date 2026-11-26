@@ -23,7 +23,7 @@ Wiki page: [M456](../../../../PAGES/M456.md)
 - **Title block:** (369, 32)–(432, 55) mm: ESSUDATE · WAAD-BECK systeMS · M456
 - **Wiring (first pass):** 287 connected wire groups from 1,648 runs; labelled ends: 266 mm → Ris, Rite, IRI7,, Ri73; 264 mm → 390; 222 mm → Ch ON, 2k5; 201 mm → 2k5_, 2k5, R4; 194 mm → Ch ON
 
-Every curve, box, word and wire group: [1975 - M456 - 456-02-001 - DUAL CKO MIXDOWN MODULE SCHEMATIC SCALF (traced).json](../SCHEMATICS/1975%20-%20M456%20-%20456-02-001%20-%20DUAL%20CKO%20MIXDOWN%20MODULE%20SCHEMATIC%20SCALF%20(traced).json) (the CAD file: `1975 - M456 - 456-02-001 - DUAL CKO MIXDOWN MODULE SCHEMATIC SCALF (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M456 - 456-02-001 - DUAL CKO MIXDOWN MODULE SCHEMATIC SCALF (traced).json](../SCHEMATICS/1975%20-%20M456%20-%20456-02-001%20-%20DUAL%20CKO%20MIXDOWN%20MODULE%20SCHEMATIC%20SCALF%20%28traced%29.json) (the CAD file: `1975 - M456 - 456-02-001 - DUAL CKO MIXDOWN MODULE SCHEMATIC SCALF (traced).dxf`).
 
 ## Full text
 
