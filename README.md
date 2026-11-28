@@ -4,13 +4,11 @@ Ward-Beck Systems M456, 1975|8. Wiki page: [M456 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 42 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 4 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 41 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 7 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 3 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 12 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -45,8 +43,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKaW95X1Nub1VkSG8/view?resourcekey=0-XzHjFLFwtnjn-ZscEJltNQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKaW95X1Nub1VkSG8&resourcekey=0-XzHjFLFwtnjn-ZscEJltNQ" width="240" alt="1975 - M456 - 5-102-06-001.jpg"></a><br><sub>1975|8 · 5-102-06-001 · <a href="SCHEMATICS/1975%20-%20M456%20-%205-102-06-001%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1977 - 456-01-001 - DUAL MIXDOWN MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ISS 2 (2).jpg`, `1977 - 456-01-001 - DUAL MIXDOWN MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ISS 2.jpg`, `1978 - 456-01-003 - M456B DUAL MIXDOWN MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG RKB - ISS 2.jpg`, `19xx - 456-01-003 - M456B DUAL MIXDOWN MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG RKB - ISS 2.jpg`
-
 ## Manuals and documents
 
 _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ads and other document scans._
@@ -69,7 +65,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 456-01-003 - M456B DUAL MIXDOWN MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG RKB - ISS 2.kicad_sch](KICAD/19xx%20-%20456-01-003%20-%20M456B%20DUAL%20MIXDOWN%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20P.%20MAHONEY%20-%20ENG%20RKB%20-%20ISS%202.kicad_sch)
 - [19xx - 456-01-003.kicad_sch](KICAD/19xx%20-%20456-01-003.kicad_sch)
 - [M456.kicad_sym](KICAD/M456.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
