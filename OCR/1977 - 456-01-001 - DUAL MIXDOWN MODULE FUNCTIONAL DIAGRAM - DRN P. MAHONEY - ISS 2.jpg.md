@@ -1,5 +1,5 @@
 # 1977 - 456-01-001 - DUAL MIXDOWN MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ISS 2.jpg
-Wiki page: [M456](../../../../PAGES/M456.md)
+Wiki page: [M456](../)
 
 
 - **Year:** 1977 (title block date)

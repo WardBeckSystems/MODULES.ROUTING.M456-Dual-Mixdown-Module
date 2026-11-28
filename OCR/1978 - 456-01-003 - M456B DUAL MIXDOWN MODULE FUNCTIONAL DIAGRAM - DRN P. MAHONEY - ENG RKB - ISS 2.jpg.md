@@ -1,5 +1,5 @@
 # 1978 - 456-01-003 - M456B DUAL MIXDOWN MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG RKB - ISS 2.jpg
-Wiki page: [M456](../../../../PAGES/M456.md)
+Wiki page: [M456](../)
 
 
 - **Year:** 1978 (title block date)

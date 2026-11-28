@@ -1,5 +1,5 @@
 # 1975 - M456 - 456-02-001 - DUAL CKO MIXDOWN MODULE SCHEMATIC SCALF.jpg
-Wiki page: [M456](../../../../PAGES/M456.md)
+Wiki page: [M456](../)
 
 
 - **Year:** 1975 (module estimate (family))
